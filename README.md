@@ -14,5 +14,4 @@ A functional single page personal website displaying my interests, desired learn
 
 **Exclusions:**  
 This page will be composed exclusively of HTMl and very basic CSS principles. This page will not include any intermediate to advance CSS frameworks such as Bootstrap or Material Design.  
-
-[Link to my portfolio website]()
+[Link to my portfolio website](https://raider-variable-x.github.io/)
